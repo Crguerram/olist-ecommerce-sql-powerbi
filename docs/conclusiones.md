@@ -22,4 +22,4 @@ Se observa que incrementos en los días de entrega tienden a impactar negativame
 
 6. Costos logísticos variables según categoría
 
-Algunas categorías presentan valores de fletes promedio significativamente más alto, lo que puede afectar márgenes y requiere estrategias diferenciadas.
+Algunas categorías presentan valores de fletes promedio significativamente más altos, lo que puede afectar márgenes y requiere estrategias diferenciadas.
