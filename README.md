@@ -15,7 +15,7 @@ Kaggle – Brazilian E-Commerce Public Dataset by Olist
 
 Periodo: 2016–2018
 
-Data incluye archivos CSV: customers, sellers, orders,ítems, products, payments, reviews, and geolocation.
+Data incluye archivos CSV: customers, sellers, orders,ítems, products, payments, reviews, y geolocation.
 
 🛠 Herramientas
 
